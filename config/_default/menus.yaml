@@ -1,0 +1,27 @@
+hide_download: true
+hide_download_original: null
+leftnav:
+- identifier: 9d19353a-3388-ff97-7eb9-bf73a7f7f8a1
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 96ad3ca8-7634-fc09-07f4-09a275892ca2
+  name: Samurai Swords
+  pageRef: /pages/samurai-swords
+  weight: 20
+- identifier: 6d6fc1f9-64f9-8692-90e2-d22668206f68
+  name: Chinese Cooking
+  pageRef: /pages/chinese-cooking
+  weight: 30
+- identifier: 160bca93-f3e8-a2ca-883d-76b118a8b3c9
+  name: Clocks and Longitude
+  pageRef: /pages/clocks-and-longitude
+  weight: 40
+- identifier: f604a998-74c4-4247-4e60-4706d725eb18
+  name: Andean Textiles
+  pageRef: /pages/andean-textiles
+  weight: 50
+- identifier: dfc8d196-5c7b-aeea-171b-63a69c19d7dd
+  name: U.S. Cars and Engines
+  pageRef: /pages/u-s--cars-and-engines
+  weight: 60
