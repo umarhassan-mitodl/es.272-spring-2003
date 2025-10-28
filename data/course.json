@@ -33,8 +33,7 @@
     "website": "es-272-culture-tech-spring-2003"
   },
   "course_title": "Culture Tech",
-  "hide_download": true,
-  "course_description": "This class is divided into a series of sections or \"modules\", each of which concentrates on a particular large technology-related topic in a cultural context. The class will start with a four-week module on Samurai Swords and Blacksmithing, followed by smaller units on Chinese Cooking, the Invention of Clocks, and Andean Weaving, and end with a four-week module on Automobiles and Engines. In addition, there will be a series of hands-on projects that tie theory and practice together. The class discussions range across anthropology, history, and individual development, emphasizing recurring themes, such as the interaction between technology and culture and the relation between \"skill\" knowledge and \"craft\" knowledge.[  \n](http://esg.mit.edu/)\n\nCulture Tech evolved from a more extensive, two-semester course which formed the centerpiece of the Integrated Studies Program at MIT.\u00a0 For 13 years, ISP was an alternative first-year program combining humanities, physics, learning-by-doing, and weekly luncheons.\u00a0 Culture Tech represents the core principles of ISP distilled into a 6-unit seminar. Although many collections of topics have been used over the years, the modules presented here are a representative sequence.\n",
+  "course_description": "This class is divided into a series of sections or \"modules\", each of which concentrates on a particular large technology-related topic in a cultural context. The class will start with a four-week module on Samurai Swords and Blacksmithing, followed by smaller units on Chinese Cooking, the Invention of Clocks, and Andean Weaving, and end with a four-week module on Automobiles and Engines. In addition, there will be a series of hands-on projects that tie theory and practice together. The class discussions range across anthropology, history, and individual development, emphasizing recurring themes, such as the interaction between technology and culture and the relation between \"skill\" knowledge and \"craft\" knowledge.{{% resource_link \"e18dd9b1-9d43-4e6d-9ca2-2a82d57513a8\" \"   \" %}}\n\nCulture Tech evolved from a more extensive, two-semester course which formed the centerpiece of the Integrated Studies Program at MIT.\u00a0 For 13 years, ISP was an alternative first-year program combining humanities, physics, learning-by-doing, and weekly luncheons.\u00a0 Culture Tech represents the core principles of ISP distilled into a 6-unit seminar. Although many collections of topics have been used over the years, the modules presented here are a representative sequence.\n",
   "department_numbers": [
     "ES"
   ],
@@ -44,7 +43,6 @@
     "content": "e36ad1e1-5524-ddbb-2feb-89aff66ffe70",
     "website": "es-272-culture-tech-spring-2003"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Written Assignments"
   ],

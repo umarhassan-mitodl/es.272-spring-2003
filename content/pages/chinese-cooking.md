@@ -2,8 +2,6 @@
 content_type: page
 description: This section contains an introduction to the Chinese Cooking module,
   its readings with full citations and questions, and a lab exercise.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Chinese Cooking
